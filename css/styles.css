@@ -211,11 +211,11 @@ a {
   color: #0085B8;
   text-decoration: underline;
 }
-a:hover {
+a:hover, a:visited  {
   color: #0085A1;
 }
 
-a:not([href]):not([class]), a:not([href]):not([class]):hover, a:visited {
+a:not([href]):not([class]), a:not([href]):not([class]):hover{
   color: inherit;
   text-decoration: none;
 }
