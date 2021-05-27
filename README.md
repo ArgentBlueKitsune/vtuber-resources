@@ -1,1 +1,1 @@
-# vtuber-resources-
+# Vtuber-Resources
