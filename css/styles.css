@@ -206,7 +206,7 @@ sub {
 sup {
   top: -0.5em;
 }
-
+/*Dumb machine*/
 a {
   color: #0085B8;
   text-decoration: underline;
